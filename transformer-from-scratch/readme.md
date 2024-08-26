@@ -1,4 +1,4 @@
 - In this repo , I built transformer from scratch in Pytorch
-- I trained the transformer on translation task from english to french using **[opus dataset]**(https://huggingface.co/datasets/Helsinki-NLP/opus_books)
+- I trained the transformer on translation task from english to french using **[opus dataset](https://huggingface.co/datasets/Helsinki-NLP/opus_books)**.
 - The architecture , code organisation and most of logic was inspired by Mr's Umar Jamil code and youtube video :https://www.youtube.com/watch?v=ISNdQcPhsts&t=7047s
 - I highly recommned to check Mr's Umar Jamil channel , very high class ressource to understand & implement research papers
