@@ -1,1 +1,4 @@
 test.ipynb
+wandb/
+model/
+__pycache__/
