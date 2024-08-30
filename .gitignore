@@ -2,3 +2,8 @@ test.ipynb
 wandb/
 model/
 __pycache__/
+test.*
+*.json
+*.txt
+*.tsv
+*.ipynb
